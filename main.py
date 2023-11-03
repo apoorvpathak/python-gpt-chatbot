@@ -1,6 +1,7 @@
 import openai
 
-openai.api_key = "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"
+openai.api_key = "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"
+#above api key is deleted, get your own from https://platform.openai.com/account/api-keys
 
 
 def chat(prompt):
